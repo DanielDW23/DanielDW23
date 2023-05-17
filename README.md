@@ -14,7 +14,7 @@ Mi nombre es Daniel,  soy Desarrollador Web Full Stack, apasionado de la tecnolo
  
  <p align="center">
  <img src= "https://img.shields.io/badge/-LARAVEL-red?style=for-the-badge&logo=laravel&logoColor=white"></img>
- <img src= "https://img.shields.io/badge/-SCRUM-orange?style=for-the-badge&logo=laravel&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/-SCRUM-orange?style=for-the-badge"></img>
  <img src= "https://img.shields.io/badge/-FIGMA-9CF?style=for-the-badge&logo=figma&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
 
