@@ -1,5 +1,5 @@
 ## Hola a tod@s 👋 
-Mi nombre es Daniel,  soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... Bienvenido a mi perfil de GitHub. 
+Mi nombre es Daniel,  soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... :rocket: Bienvenido a mi perfil de GitHub. 
 
 ## STACK
 
