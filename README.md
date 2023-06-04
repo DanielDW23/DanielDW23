@@ -1,5 +1,11 @@
-## Hola a tod@s 👋 
-Mi nombre es Daniel,  soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... :rocket: Bienvenido a mi perfil de GitHub. 
+<div align="center">
+  <img src= "https://github.com/DanielDW23/DanielDW23/assets/126791645/28e61f26-ec20-40e5-b2d2-ca7ddfba609b"></img>
+</div>
+
+## Hola a tod@s 👋
+
+Soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... :rocket:   
+Bienvenido a mi perfil de GitHub. 
 
 ## STACK
 
@@ -21,9 +27,8 @@ Mi nombre es Daniel,  soy Desarrollador Web Full Stack, apasionado de la tecnolo
  </p>
  
  ## CONTACTO
- 
+
  <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
  
  <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
 
