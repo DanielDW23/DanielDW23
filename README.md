@@ -2,7 +2,7 @@
   <img src= "https://github.com/DanielDW23/DanielDW23/assets/126791645/28e61f26-ec20-40e5-b2d2-ca7ddfba609b"></img>
 </div>
 
-## Hola a tod@s 👋
+## Hola a tod@s 👋  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DanielDW23/DanielDW23/blob/main/README.en.md)
 
 Soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... :rocket:   
 Bienvenido a mi perfil de GitHub. 
