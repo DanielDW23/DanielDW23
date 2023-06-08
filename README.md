@@ -5,7 +5,13 @@
 ## Hola a tod@s 👋  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DanielDW23/DanielDW23/blob/main/README.en.md)
 
 Soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... :rocket:   
-Bienvenido a mi perfil de GitHub. 
+Bienvenido a mi perfil de GitHub.    
+       
+ <div align="center">
+  
+ <a href="https://github.com/DanielDW23/DanielDW23/files/11687197/CURRICULUM.DANIEL.LOPEZ.GARCIA.pdf" target="_blank"><img alt="icono Curriculum" src="https://github.com/DanielDW23/DanielDW23/assets/126791645/2e65d95e-cf82-4282-a594-214ea79278d0" /></a>
+ 
+</div>
 
 ## STACK
 
@@ -41,6 +47,7 @@ Bienvenido a mi perfil de GitHub.
 </p>
  
  
+
 
 
 
