@@ -7,6 +7,12 @@
 I am a Full Stack Web Developer, passionate about technology and in continuous training, this progresses very quickly... :rocket:   
 Welcome to my GitHub profile. 
 
+<div align="center">
+  
+   <a href="https://github.com/DanielDW23/DanielDW23/files/11690759/CURRICULUM_DANIEL_LOPEZ_GARCIA_es.pdf"><img alt="Icon download resume" src="https://i.ibb.co/q5pscPS/cv-1-TEXT-EN.png" alt="cv-1-TEXT-EN" /></a>
+  
+</div>
+
 ## STACK
 
 <p align="center">
