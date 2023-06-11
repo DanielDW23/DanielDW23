@@ -6,6 +6,13 @@
 
 I am a Full Stack Web Developer, passionate about technology and in continuous training, this progresses very quickly... :rocket:   
 Welcome to my GitHub profile. 
+<br><br>
+  
+- 👉 I am currently doing a Full Stack Web Development Bootcamp, learning new things every day... 📖 🖥️ 
+
+- 👨‍⚕️ I want to work as a Web Developer, to put my knowledge into practice and continue training.
+
+<br><br>  
 
 <div align="center">
   
@@ -14,7 +21,7 @@ Welcome to my GitHub profile.
 </div>
 
 ## STACK
-
+<br>
 <p align="center">
  <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -33,10 +40,11 @@ Welcome to my GitHub profile.
  </p>
  
  ## CONTACT
+📫 You can contact me through
 
- <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
- <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
 
 ## STATS
 <p align="center">
