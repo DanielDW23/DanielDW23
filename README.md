@@ -5,8 +5,15 @@
 ## Hola a tod@s 👋  [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/DanielDW23/DanielDW23/blob/main/README.en.md)
 
 Soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua formación, esto avanza muy rápido... :rocket:   
-Bienvenido a mi perfil de GitHub.    
-       
+Bienvenido a mi perfil de GitHub. 
+<br><br>
+  
+- 👉 Actualmente estoy realizando un Bootcamp de Desarrollo Web Full Stack, aprendiendo cosas nuevas cada día... 📖 🖥️ 
+
+- 👨‍⚕️ Quiero trabajar como Desarrollador Web, para poner en práctica mis conocimientos y seguir formándome.
+
+<br><br>  
+     
  <div align="center">
   
   <a href="https://github.com/DanielDW23/DanielDW23/files/11691112/CURRICULUM_DANIEL_LOPEZ_GARCIA_es.pdf" target="_blank"><img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" /></a>
@@ -35,10 +42,14 @@ Bienvenido a mi perfil de GitHub.
  </p>
  
  ## CONTACTO
-
- <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
- <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+ 📫 Puedes contactar conmigo a través de
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+ 
+
 
 ## STATS
 <p align="center">
