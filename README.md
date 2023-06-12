@@ -45,9 +45,9 @@ Bienvenido a mi perfil de GitHub.
  
  📫 Puedes contactar conmigo a través de
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  &emsp;&emsp; <a href="https://www.linkedin.com/in/daniel-lg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+  &emsp;&emsp; <a href="mailto:dlopezg4@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
  
 
 
