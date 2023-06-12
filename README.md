@@ -10,9 +10,9 @@ Bienvenido a mi perfil de GitHub.
   
 - 👉 Actualmente estoy realizando un Bootcamp de Desarrollo Web Full Stack, aprendiendo cosas nuevas cada día... 📖 🖥️ 
 
-- 👨‍⚕️ Quiero trabajar como Desarrollador Web, para poner en práctica mis conocimientos y seguir formándome.
+- 👨‍💻 Quiero trabajar como Desarrollador Web, para poner en práctica mis conocimientos y seguir formándome.
 
-<br><br>  
+<br>  
      
  <div align="center">
   
