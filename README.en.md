@@ -10,9 +10,9 @@ Welcome to my GitHub profile.
   
 - 👉 I am currently doing a Full Stack Web Development Bootcamp, learning new things every day... 📖 🖥️ 
 
-- 👨‍⚕️ I want to work as a Web Developer, to put my knowledge into practice and continue training.
+- 👨‍💻 I want to work as a Web Developer, to put my knowledge into practice and continue training.
 
-<br><br>  
+<br> 
 
 <div align="center">
   
