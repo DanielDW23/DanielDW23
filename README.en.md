@@ -36,8 +36,11 @@ Welcome to my GitHub profile.
  <img src= "https://img.shields.io/badge/-SCRUM-orange?style=for-the-badge"></img>
  <img src= "https://img.shields.io/badge/-FIGMA-9CF?style=for-the-badge&logo=figma&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
-
  </p>
+
+   <p align="center">
+ <img src="https://github.com/DanielDW23/DanielDW23/assets/126791645/a484c361-2d96-4991-8116-4fda1b1e3f62" alt="docker" width="60" height="60"/>
+  </p>
  
  ## CONTACT
 📫 You can contact me through
