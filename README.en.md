@@ -41,6 +41,10 @@ Welcome to my GitHub profile.
    <p align="center">
  <img src="https://github.com/DanielDW23/DanielDW23/assets/126791645/a484c361-2d96-4991-8116-4fda1b1e3f62" alt="docker" width="60" height="60"/>
   </p>
+
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=32&pause=1000&color=4AAAFB&center=true&width=950&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Coding+is+10%25+writing+code+and+90%25+understanding+why+it+doesn't+work.%22;%22The+best+programmers+aren't+always+the+best+at+coding%2C;+they're+the+ones+who+work+together+best.%22)](https://git.io/typing-svg)
  
  ## CONTACT
 📫 You can contact me through
