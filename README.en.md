@@ -16,9 +16,10 @@ Welcome to my GitHub profile.
 
 <div align="center">
   
-   <a href="https://github.com/DanielDW23/DanielDW23/files/11691121/CURRICULUM_DANIEL_LOPEZ_GARCIA_en.pdf"><img alt="Icon download resume" src="https://i.ibb.co/q5pscPS/cv-1-TEXT-EN.png" alt="cv-1-TEXT-EN" /></a>
+   <a href="https://github.com/DanielDW23/DanielDW23/files/11940001/CURRICULUM_DANIEL_LOPEZ_GARCIA_en.pdf"><img alt="Icon download resume" src="https://i.ibb.co/q5pscPS/cv-1-TEXT-EN.png" alt="cv-1-TEXT-EN" /></a>
   
 </div>
+
 
 ## STACK
 <br>
