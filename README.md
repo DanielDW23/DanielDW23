@@ -8,9 +8,9 @@ Soy Desarrollador Web Full Stack, apasionado de la tecnología y en continua for
 Bienvenido a mi perfil de GitHub. 
 <br><br>
   
-- 👉 Actualmente estoy realizando un Bootcamp de Desarrollo Web Full Stack, aprendiendo cosas nuevas cada día... 📖 🖥️ 
+- 👉 Trabajando actualmente como Desarrollador Web Full Stack  📖 🖥️ 
 
-- 👨‍💻 Quiero trabajar como Desarrollador Web, para poner en práctica mis conocimientos y seguir formándome.
+- 👨‍💻 Cursando un curso de Ciberseguridad 🛡️, la formación no puede parar 
 
 <br>  
      
