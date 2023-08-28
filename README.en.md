@@ -8,9 +8,9 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
 Welcome to my GitHub profile. 
 <br><br>
   
-- 👉 I am currently doing a Full Stack Web Development Bootcamp, learning new things every day... 📖 🖥️ 
+- 👉 Currently working as a Full Stack Web Developer 📖 🖥️ 
 
-- 👨‍💻 I want to work as a Web Developer, to put my knowledge into practice and continue training.
+- 👨‍💻 Taking a Cybersecurity course 🛡️, the training cannot stop
 
 <br> 
 
