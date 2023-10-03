@@ -8,7 +8,7 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
 Welcome to my GitHub profile. 
 <br><br>
   
-- 👉 Currently working as a Full Stack Web Developer 📖 🖥️ 
+- 👉 In continuous training 📖 🖥️ 
 
 - 👨‍💻 Taking a Cybersecurity course 🛡️, the training cannot stop
 
@@ -35,6 +35,8 @@ Welcome to my GitHub profile.
  
  <p align="center">
  <img src= "https://img.shields.io/badge/-LARAVEL-red?style=for-the-badge&logo=laravel&logoColor=white"></img>
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
  <img src= "https://img.shields.io/badge/-SCRUM-orange?style=for-the-badge"></img>
  <img src= "https://img.shields.io/badge/-FIGMA-9CF?style=for-the-badge&logo=figma&logoColor=white"></img>
  <img src= "https://img.shields.io/badge/-GITHUB-lightgrey?style=for-the-badge&logo=github&logoColor=black"></img>
