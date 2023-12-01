@@ -10,7 +10,7 @@ Welcome to my GitHub profile.
   
 - 👉 In continuous training 📖 🖥️ 
 
-- 👨‍💻 Taking a Cybersecurity course 🛡️, the training cannot stop
+
 
 <br> 
 
