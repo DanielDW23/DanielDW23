@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub.
   
 - 👉 En continua formación  📖 🖥️ 
 
-- 👨‍💻 Cursando un curso de Ciberseguridad 🛡️, la formación no puede parar 
+
 
 <br>  
      
