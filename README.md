@@ -16,7 +16,7 @@ Bienvenido a mi perfil de GitHub.
      
  <div align="center">
   
-  <a href="https://github.com/DanielDW23/DanielDW23/files/12804981/CURRICULUM_DANIEL_LOPEZ_GARCIA_es.pdf" target="_blank"><img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" /></a>
+  <a href="https://github.com/user-attachments/files/17089091/CURRICULUM_DANIEL_LOPEZ_GARCIA_es.pdf" target="_blank"><img alt="Icono descargar currículum" src="https://i.ibb.co/KXDhQpJ/cv-1-TEXT.png" /></a>
 
 </div>
 
